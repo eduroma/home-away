@@ -7,8 +7,12 @@ const nextConfig = {
         hostname: 'img.clerk.com',
         port: '',
         pathname: '/**'
+      },
+      {
+        protocol: 'https',
+        hostname: 'mldahyvnxhwfksrcjbmk.supabase.co'
       }
-    ]
+    ],
   }
 };
 
